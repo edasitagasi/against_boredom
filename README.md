@@ -1,4 +1,4 @@
-<h1 align="center" id="title">To do list</h1>
+<h1 align="center" id="title">App against boredom</h1>
 
 <p id="description">This project was made on educational purposes while learning React, API and its functionality.</p>
 
